@@ -1,4 +1,4 @@
-# statistical-theory-for-data-analysis-project
+# Statistical Theory For Data Analysis Project
 
 <h3>By Shahar Dekel and Amit Feiner </h3>
 
