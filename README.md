@@ -2,4 +2,4 @@
 
 <h3>By Shahar Dekel and Amit Feiner </h3>
 
-[![jupyter](1200px-Jupyter_logo.svg.png)](https://mybinder.org/v2/gh/shahardekel/statistical-theory-for-data-analysis-project/16886521cbc0bf2a5b4a8bc539e86992d34ff9bb)
+[![jupyter](1200px-Jupyter_logo.svg.png)](https://hub.gke2.mybinder.org/user/shahardekel-sta-nalysis-project-9wxe2niz/tree)
