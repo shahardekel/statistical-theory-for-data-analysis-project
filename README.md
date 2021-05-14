@@ -4,5 +4,5 @@
 
 [![jupyter](JupyterLogo.png)](https://hub.gke2.mybinder.org/user/shahardekel-sta-nalysis-project-9wxe2niz/tree)
 
-Assignment #1 - Done!
+Assignment #1 - Done!<br>
 Assignment #2 - Done!
