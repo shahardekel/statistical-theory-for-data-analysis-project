@@ -4,8 +4,8 @@
 
 [![jupyter](JupyterLogo.png)](https://hub.gke2.mybinder.org/user/shahardekel-sta-nalysis-project-9wxe2niz/tree)
 
-<u>Assignment #1 - Done!</u><br>
-The goals of the first task are:<br>
+Assignment #1 - Done!<br>
+The goals of the first task are:
 1. Selecting a suitable file
 2. Descriptive analysis of the data
 3. Formulation of relevant research questions<br><br>
