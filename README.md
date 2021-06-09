@@ -11,4 +11,7 @@ The goals of the first task are:
 3. Formulation of relevant research questions<br><br>
 
 Assignment #2 - Done!<br>
-The purpose of Task 2 in the project is to test the effect of sample size on the length of the confidence intervals and test results.
+The purpose of Task 2 in the project is to test the effect of sample size on the length of the confidence intervals and test results.<br><br>
+
+Assignment #3 - Done!<br>
+The purpose of task 3 in the project is to examine the effect of the explanatory variables (Xs) on the explained variable (Y)
