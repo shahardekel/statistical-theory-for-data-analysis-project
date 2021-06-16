@@ -14,4 +14,7 @@ Assignment #2 - Done!<br>
 The purpose of Task 2 in the project is to test the effect of sample size on the length of the confidence intervals and test results.<br><br>
 
 Assignment #3 - Done!<br>
-The purpose of task 3 in the project is to examine the effect of the explanatory variables (Xs) on the explained variable (Y)
+The purpose of task 3 in the project is to examine the effect of the explanatory variables (Xs) on the explained variable (Y)<br><br>
+
+Assignment #4 - Done!<br>
+Bootstrap and permutation tests
