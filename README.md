@@ -17,4 +17,7 @@ Assignment #3 - Done!<br>
 The purpose of task 3 in the project is to examine the effect of the explanatory variables (Xs) on the explained variable (Y)<br><br>
 
 Assignment #4 - Done!<br>
-Bootstrap and permutation tests
+Bootstrap and permutation tests<br><br>
+
+Assignment #5 - Done!<br>
+The purpose of Task 5 is to implement the Bayesian method and deal with missing data
